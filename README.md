@@ -4,7 +4,7 @@ This repository contains the code for building a Netflix-inspired home page usin
 
 ## Preview
 
-![image](https://github.com/Alok-2002/Netflix_Home_Page_Using_HTML_And_CSS/assets/93814546/4959b8ef-266f-4194-8709-b90223d69b2e)
+![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.myportfolio.com%2Fc566d135-fa34-4300-b927-bbf434be368a%2F3c4776e2-8370-4bea-a74c-afdbb99568c2_rw_1920.png%3Fh%3D985019177c88e4f73f1989be540100be&tbnid=h71S_YJO2JSOmM&vet=12ahUKEwiGo5D5quWEAxXfzTgGHaVGBdYQMygVegUIARCdAQ..i&imgrefurl=https%3A%2F%2Fknowellsagum.com%2Fnetflix-non-member-home-page&docid=jMJ5fm9g8iVp-M&w=1441&h=744&q=netflix%20home%20page&ved=2ahUKEwiGo5D5quWEAxXfzTgGHaVGBdYQMygVegUIARCdAQ)
 ## Features
 
 - Responsive design: The web page adapts to different screen sizes, ensuring a consistent user experience on desktop and mobile devices.
